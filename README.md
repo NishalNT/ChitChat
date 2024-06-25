@@ -1,4 +1,4 @@
-# ChitChat
+# ChitChat 🗨👩‍💻
 
 ChitChat is a real-time chat application that allows users to connect and communicate with each other instantly. Built with PHP, HTML, CSS, JavaScript, and MySQL, this app provides a seamless chatting experience with user authentication and online status features.
 
